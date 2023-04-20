@@ -6,4 +6,4 @@ En la computación, es muy común implementar el cifrado como medida de segurida
 
 Entre los algoritmos de cifrado más utilizados se encuentra MD5 (Message-Digest Algorithm 5, implementado como medida de seguridad en descargas de internet) y SHA (Secure Hash Algorithm, implementado en la autenticación de los sistemas Unix).
 
-![La imagen probablemente se ha borrado](https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png)
+![La imagen probablemente se ha borrado](https://imgur.com/Bk21UFj)
