@@ -1,5 +1,4 @@
-# tarea2
-**Tarea: Código cifrado**
+#**Tarea: Código cifrado**
 
 Es un procedimiento que implementa un algoritmo de cifrado junto con una clave de cifrado para transformar un mensaje, sin cambiar su significado, de forma que sea incomprensible para quien no posea la clave de cifrado.
 
